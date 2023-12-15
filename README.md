@@ -1,3 +1,3 @@
 # Python
-Python refresher and simple code
+Python refresher OOP
 
