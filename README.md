@@ -1,2 +1,3 @@
 # Python
-Python refresher
+Python refresher and simple code
+
