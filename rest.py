@@ -1,3 +1,5 @@
+# Simple rest api http://localhost:5000/books, http://localhost:5000/first
+
 from flask import Flask, json
 
 books = [{"id": 1, "name": "Java in action"}, {"id": 2, "name": "Github in a nutshell"}]

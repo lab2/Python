@@ -1,3 +1,5 @@
+# Generate random address data with random choice
+
 import random
 
 streets = ["Freudenweg", "Nobelstrasse", "Van Gogh Allee", "Gassenweg", "Hafenweg", "Postfach"]
