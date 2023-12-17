@@ -1,10 +1,5 @@
-# Declare a HelloWorld class and redirect to standard output
+# Declare a HelloWorld class and return string
 
 class HelloWorld:
-
     def greet(self):
-        print("Hello world!")
-
-
-greeter = HelloWorld()
-greeter.greet()
+        return "Hello world!"
