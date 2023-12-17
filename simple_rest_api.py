@@ -1,4 +1,5 @@
 # Simple rest api http://localhost:5000/books, http://localhost:5000/first
+# Run via Flask executing python
 
 from flask import Flask, json
 

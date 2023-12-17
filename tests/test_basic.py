@@ -1,6 +1,6 @@
 # Simple tests
 
-from helloworld import HelloWorld
+from hello_world import HelloWorld
 
 def test_assert_equal():
     assert 2 == 2
