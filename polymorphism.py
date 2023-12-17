@@ -1,11 +1,12 @@
 # Simple polymorphism
+
 class Vehicle:
     def __init__(self, brand, model):
         self.brand = brand
         self.model = model
 
     def move(self):
-        print("Move!")
+        return "Move!"
 
 
 class Car(Vehicle):
@@ -35,4 +36,4 @@ for x in (car, boat, plane):
 vehicle = Vehicle("Parent brand", "Parent model")
 print(vehicle.brand)
 print(vehicle.model)
-vehicle.move()
+print(vehicle.move())
