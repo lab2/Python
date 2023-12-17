@@ -1,3 +1,3 @@
 # Python
 
-Python refresher, language and snippets
+Python language and snippets
