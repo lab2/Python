@@ -1,3 +1,3 @@
 # Python
 
-Python language and snippets
+Quick python language and snippets for env checking
